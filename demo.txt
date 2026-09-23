@@ -1,4 +1,2 @@
-Hii everyone my name is tahseen khan
-And i'm fom hazaribagh jharkhand pin=825301
-cureently i live in mumbai for my studies 
-i'm persuing btech cse aiml from Dr homi bhabha state univercity
+Digital + Analog Hybrid View: Trigonometry-calculated 
+canvas clock hands updated dynamically alongside digital text.
