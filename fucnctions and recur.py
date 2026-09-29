@@ -1,4 +1,4 @@
-#Function defination
+5#Function defination
 def calc_sum(a,b):      ##parameters(a,b)
     sum=a+b
     print(sum)

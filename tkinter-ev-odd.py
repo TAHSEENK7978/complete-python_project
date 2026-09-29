@@ -7,6 +7,7 @@ def check_even_odd():
         if num % 2 == 0:
             messagebox.showinfo("Result", f"{num} is Even")
         else:
+            
             messagebox.showinfo("Result", f"{num} is Odd")
     except ValueError:
         messagebox.showerror("Error", "Please enter a valid integer")
@@ -25,5 +26,3 @@ button = tk.Button(root, text="Check", command=check_even_odd)
 button.pack(pady=10)
 
 root.mainloop()
-
-
