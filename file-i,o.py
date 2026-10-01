@@ -12,7 +12,8 @@
 
 # f.close()
 
-#w= write over the file means delete and add new txt, "a"= add new txt or append
+#w
+# = write over the file means delete and add new txt, "a"= add new txt or append
 f=open("demo.txt", "w","a")
 f.write("My name is tahseen khan")
 f.write("i'm from jharkhand")
